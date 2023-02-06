@@ -43,7 +43,7 @@
 
 - `rm -rf BD-PK-CRACK`
 
-- `git clone `
+- `git clone https://github.com/MrALAMIN156/BD-PK-CRACK.git `
 
  
 
